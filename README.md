@@ -15,4 +15,5 @@ python app.py
 ```
 
 ## 3. Access the app
-Open a browser and go to `http://localhost:5000/`
+Open a browser and go to [http://localhost:5000/](http://localhost:5000/)
+
